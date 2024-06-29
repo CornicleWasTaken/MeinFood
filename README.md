@@ -1,4 +1,5 @@
 # MeinFood
+This Project is for fast food delivery interface and this is intended to give a good searching experience for fast food
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
